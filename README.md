@@ -1,0 +1,1 @@
+# s3_detail_using_terraform
